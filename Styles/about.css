@@ -3,7 +3,7 @@ h1 {
     font-size: 50px;
 }
 header{
-    background-color:red;
+    background-color: #FF1694;
 }
 article p{
     font-size: 30px;
@@ -11,7 +11,7 @@ article p{
 }
 footer{
     font-size: 25px;
-    background-color:red;
+    background-color:#FF1694;
     text-align: center;
 }
 img{
@@ -29,7 +29,7 @@ font-size: 20px;
 font-style: italic;
 }
 #companyinfo{
-    background-color:blueviolet;
+    background-color: #FE7F9C;
 }
 body{
     background-color: lightpink;
