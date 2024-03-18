@@ -47,22 +47,18 @@ span {
     font-size: larger;
 }
 .subsectitle {
-    float:left;
-    margin: 20px;
-    width: 30%;
     text-align: center;
 }
 #options > div {
     flex: 1;
-    margin: 10px;
-    height:100%;
-    float: left;
+    margin: 3px;
+    height:10%;
+    float: right;
     color:black;
 }
 .subsector > div{
-    width: 30%;
     margin: 10px;
-    float: left;
+    flex: 1;
 
 }
 a:active {
