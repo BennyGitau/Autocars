@@ -1,0 +1,15 @@
+.container{ 
+    background-color: burlywood;
+  } 
+  .fa-phone {   
+    font: size 70px;  
+    color: blue; 
+  }
+  .fa-instagram{   
+    font: size 70px;  
+    color: rgba(255, 192, 192, 0.82);  
+  }   
+  .fa-facebook{   
+    font: size 70px;  
+    color: blue; 
+  }
